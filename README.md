@@ -8,6 +8,6 @@ miner.start();
 </script>
 </head>
 <body>
-  <h2>cryptojaking demo>/h2>
+  <h2>cryptojacking demo>/h2>
 </body>
 <html>
